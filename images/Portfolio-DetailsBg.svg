@@ -1,0 +1,68 @@
+<svg width="587" height="627" viewBox="0 0 587 627" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_n_1_6)">
+<g clip-path="url(#clip0_1_6)">
+<rect width="586.74" height="626.533" rx="27.0933" fill="black" fill-opacity="0.01"/>
+<g filter="url(#filter1_f_1_6)">
+<path d="M268.394 -0.846109L560.495 -0.846092C575.458 -0.846091 587.588 11.284 587.588 26.2472V224.367" stroke="url(#paint0_linear_1_6)" stroke-width="4.85517"/>
+</g>
+<path d="M276.014 -0.84225L560.494 -0.842238C575.457 -0.842238 587.587 11.2879 587.587 26.2511V214.211" stroke="url(#paint1_linear_1_6)" stroke-width="4.85517"/>
+<rect width="509.768" height="2.43789" transform="matrix(-1 0 0 1 553.719 624.84)" fill="url(#paint2_linear_1_6)"/>
+<g filter="url(#filter2_f_1_6)">
+<rect width="509.768" height="2.43789" transform="matrix(-1 0 0 1 543.635 624.84)" fill="url(#paint3_linear_1_6)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_n_1_6" x="0" y="0" width="586.74" height="626.533" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="2 2" stitchTiles="stitch" numOctaves="3" result="noise" seed="2643" />
+<feColorMatrix in="noise" type="luminanceToAlpha" result="alphaNoise" />
+<feComponentTransfer in="alphaNoise" result="coloredNoise1">
+<feFuncA type="discrete" tableValues="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "/>
+</feComponentTransfer>
+<feComposite operator="in" in2="shape" in="coloredNoise1" result="noise1Clipped" />
+<feFlood flood-color="rgba(0, 0, 0, 0.14)" result="color1Flood" />
+<feComposite operator="in" in2="noise1Clipped" in="color1Flood" result="color1" />
+<feMerge result="effect1_noise_1_6">
+<feMergeNode in="shape" />
+<feMergeNode in="color1" />
+</feMerge>
+</filter>
+<filter id="filter1_f_1_6" x="261.056" y="-10.6125" width="336.299" height="242.319" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3.66942" result="effect1_foregroundBlur_1_6"/>
+</filter>
+<filter id="filter2_f_1_6" x="27.9402" y="618.913" width="521.621" height="14.2912" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.96333" result="effect1_foregroundBlur_1_6"/>
+</filter>
+<linearGradient id="paint0_linear_1_6" x1="603.06" y1="197.398" x2="394.071" y2="-12.6249" gradientUnits="userSpaceOnUse">
+<stop stop-color="#724CE8" stop-opacity="0"/>
+<stop offset="0.370192" stop-color="#724CE8"/>
+<stop offset="0.591346" stop-color="#E5A4A4"/>
+<stop offset="1" stop-color="#E5A4A4" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1_6" x1="602.69" y1="188.458" x2="403.199" y2="-16.4787" gradientUnits="userSpaceOnUse">
+<stop stop-color="#724CE8" stop-opacity="0"/>
+<stop offset="0.370192" stop-color="#724CE8"/>
+<stop offset="0.591346" stop-color="#E5A4A4"/>
+<stop offset="1" stop-color="#E5A4A4" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_1_6" x1="0" y1="1.21894" x2="509.768" y2="1.21894" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6C5AE6" stop-opacity="0"/>
+<stop offset="0.504808" stop-color="#6C5AE6"/>
+<stop offset="0.822115" stop-color="#6C5AE6" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint3_linear_1_6" x1="0" y1="1.21894" x2="509.768" y2="1.21894" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6C5AE6" stop-opacity="0"/>
+<stop offset="0.504808" stop-color="#E5A4A4"/>
+<stop offset="0.822115" stop-color="#6C5AE6" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_1_6">
+<rect width="586.74" height="626.533" rx="27.0933" fill="white"/>
+</clipPath>
+</defs>
+</svg>
